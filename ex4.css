@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+
+.menu {
+  position: sticky;
+  top: 0px;
+  padding: 10px;
+  background-color: #ffaa71;
+  z-index: 2;
+}
+
+.article {
+  padding: 40px 20px;
+  margin: 40px 0;
+  background-color: #f4f4f4;
+  border-bottom: 1px solid #ccc;
+}
